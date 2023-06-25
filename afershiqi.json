@@ -4,6 +4,19 @@
         "url":"https://jebet.vip/?id=23588458",
         "isToPage":true,
         "isAlert":false,
+        "adjustParams":[
+            {
+                "name":"firstrecharge",
+                "value":"gn4oc3"
+            },
+            {
+                "name":"recharge",
+                "value":"bfzjcp"
+            },
+            {
+                "name":"register",
+                "value":"7mitwq"
+            }],
         "countryCodes":[
             "LA",
             "PH",
